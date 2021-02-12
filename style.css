@@ -1,0 +1,33 @@
+body{
+    background-color: purple;
+    font-family: Courier;
+}
+
+#intro{
+    background-color: #4f3466ff;
+    text-align: center;
+    font-family: Courier;
+}
+
+#startButton{
+    font-family: Courier;
+    color: white;
+}
+
+#userInput{
+    background-color: #9f6b99ff;
+    text-align: center;
+}
+
+b,i{
+    color: cyan;
+}
+
+p,h1,h2{
+    color: whitesmoke;
+}
+
+button{
+    background-color: gray;
+    border-radius: 50px;
+}
